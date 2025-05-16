@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a knack
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajdeep-roy-243977290/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
 [![Personal Website](https://img.shields.io/badge/Website-FF7139?style=flat&logo=firefox&logoColor=white)](https://your-personal-website.com)
 
