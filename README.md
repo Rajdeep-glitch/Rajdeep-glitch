@@ -1,47 +1,118 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=FF00D4&center=true&vCenter=true&width=600&lines=Yo%2C+I'm+Rajdeep+🚀;Full-Stack+Warrior+🧠+%26+Design+Ninja+🎨;Coding+%2B+Creativity+%3D+Magic+💥;Let%E2%80%99s+Build+Something+Legendary+%F0%9F%91%BB" alt="Typing SVG" />
+</h1>
 
-# Hi there, I'm Rajdeep! 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" />
+</p>
 
-Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a knack for creating dynamic and responsive web applications. My journey in development is driven by a commitment to continuous learning and sharing knowledge with the community.
+---
 
-## 🔧 Technologies & Tools
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rajdeep-glitch&style=for-the-badge&color=FF00D4" alt="Profile views" />
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+---
 
-## 📈 GitHub Stats
+## 🔥 Who Am I?
 
-![Rajdeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajdeep-glitch&show_icons=true&theme=radical)
+> 💻 I’m a **Full-Stack Developer** blending logic with passion.  
+> 💡 I build clean, interactive, and blazing-fast web apps that **feel as good as they look**.  
+> 🌱 Always learning. Always shipping.  
+> 💬 Ask me about **MERN, UI/UX, animations, entrepreneurship, or memes**. 😎
 
-## 🔗 Connect with Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajdeep-roy-243977290/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-[![Personal Website](https://img.shields.io/badge/Website-FF7139?style=flat&logo=firefox&logoColor=white)](https://your-personal-website.com)
+## 🛠️ My Weaponry
 
-## 🎵 Now Playing
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,git,github,vscode&theme=dark" />
+</p>
 
-![Spotify](https://novatorem.vercel.app/api/spotify)
+---
 
-<!--
-**Rajdeep-glitch/Rajdeep-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ Projects That Slap
 
-Here are some ideas to get you started:
+🚀 **[NGO Website](https://github.com/Rajdeep-glitch/Ngo-Website)** – Giving power to change-makers.  
+🎯 **[MoodMap](https://github.com/Rajdeep-glitch/MoodMap)** – Mood meets map. You vibe it, we visualize it.  
+💰 **[OpenSource Bounty](https://github.com/Rajdeep-glitch/OpenSource-bounty)** – Rewarding contributions, one PR at a time.  
+🖼️ **[Portfolio](https://github.com/Rajdeep-glitch/Portfolio)** – My digital playground, polished to perfection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Stats That Don’t Lie
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajdeep-glitch&show_icons=true&theme=tokyonight&border_radius=15&count_private=true" width="47%" />
+  <img src="https://streak-stats.demolab.com/?user=Rajdeep-glitch&theme=tokyonight&border_radius=15" width="47%" />
+</div>
+
+---
+
+## 🔥 Contribution Heatmap
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajdeep-glitch&theme=tokyo-night&bg_color=1a1b27&color=FF00D4&line=00FFE0&point=FFFFFF&area=true" />
+</p>
+
+---
+
+## 🎵 What I'm Vibing To
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31j7tnw4n2sz4bgsyktbquoqtw4e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=ff00d4&bar_color_cover=true" />
+</p>
+
+> _*Spotify widget requires your Spotify user ID — replace it with your actual one if not correct.*_
+
+---
+
+## 🧠 Currently Brewing
+
+- 🛰️ Satellite-based CyberOS (yes, we’re serious)
+- 🧪 MERN-powered ProjectSuggester
+- 💻 Bringing AI magic to real-world platforms
+- 🔐 On a 2-year **Cybersecurity-to-Govt-Job** mission
+
+---
+
+## 🔗 Let’s Connect and Collab!
+
+<p align="center">
+  <a href="mailto:rajdeep.contact@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rajdeep-glitch"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/rajdeep_glitch"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+## ⚡ Fun Facts
+
+- 🧠 I think in code and dream in UI transitions.
+- 🎮 Addicted to Figma + GitHub + late-night debugging.
+- 🥇 I break, I build, I break again... and deploy on time.
+
+---
+
+## 🌈 Vibe Check
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="250" />
+</p>
+
+---
+
+## 🚨 Follow Me or Miss Out
+
+<p align="center">
+  <a href="https://github.com/Rajdeep-glitch">
+    <img src="https://img.shields.io/github/followers/Rajdeep-glitch?label=Follow%20Me&style=social" />
+  </a>
+  <a href="https://github.com/Rajdeep-glitch?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Rajdeep-glitch?label=Total%20Stars&style=social" />
+  </a>
+</p>
+
+---
+
+> 🧙 “Build like a wizard, design like a rebel, deploy like a boss.”
